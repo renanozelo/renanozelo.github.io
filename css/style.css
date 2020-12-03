@@ -52,6 +52,13 @@ body {
   margin-bottom: 10px;
 }
 
+img .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 a {
   color: #2244EE;
   text-decoration: none;
